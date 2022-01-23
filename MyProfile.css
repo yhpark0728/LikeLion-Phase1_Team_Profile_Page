@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+    background : skyblue;
+    width: 200px;
+    color : black;
+}
+
+p{
+    width: 600px;
+    margin-left: 50px;
+    text-align: justify;
+    
+}
+
+li{
+    list-style: none;
+}
